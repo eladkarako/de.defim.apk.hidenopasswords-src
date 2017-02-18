@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi/hidenopasswords.png
+SHA1-Digest: O3eHG7cGP1Oe4B3k/Ks2S2D/pPw=
+
+Name: res/drawable-xhdpi/hidenopasswords.png
+SHA1-Digest: UR5vrG47Yz5EFqlT3R6kHF5u7rs=
+
+Name: res/drawable-hdpi/hidenopasswords.png
+SHA1-Digest: ApzSGyOxDM1FJQ9hbj7hUnSGprg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: b0BSMMztMPw5MfyY3/JB3SCAQvI=
+
+Name: res/drawable-mdpi/hidenopasswords.png
+SHA1-Digest: 4mcfogOgQdS8Ao2LkcVATIA2LYs=
+
+Name: res/raw/license.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: resources.arsc
+SHA1-Digest: iQDFNW4B7W1nxE/2418QI4KtSdA=
+
+Name: classes.dex
+SHA1-Digest: XaQFWT/vPh59urfjdhqiWck9odI=
+
+Name: assets/xposed_init
+SHA1-Digest: YlYHESpvMNlWoOyqadMdSLQhC4A=
+

@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Am6roccaQc+OMR/nfzSnI1U5ddg=
+
+Name: res/drawable-xxhdpi/hidenopasswords.png
+SHA1-Digest: DZNEsofDCfq6NUxfilYYUJ/7YDw=
+
+Name: res/drawable-hdpi/hidenopasswords.png
+SHA1-Digest: LikTsfMtk6K8Y5/z6NzY5gWE7kQ=
+
+Name: res/drawable-xhdpi/hidenopasswords.png
+SHA1-Digest: 5HAH4DPb6Jj6qgsAhzvlQO/3hHE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0P/JwglRXrEQ0KWQsnlOuhDVAVs=
+
+Name: res/drawable-mdpi/hidenopasswords.png
+SHA1-Digest: cmX9fBBZAhhnvMtmKcQA+vnPx/A=
+
+Name: res/raw/license.txt
+SHA1-Digest: ufui6OghoJeer8qIAjc/o/nQSkQ=
+
+Name: resources.arsc
+SHA1-Digest: OjD/pslSqJ5kE9y/DeEzvMzc3wc=
+
+Name: classes.dex
+SHA1-Digest: xI4iA7rPLAI0nNl0kJIdrf6PR6s=
+
+Name: assets/xposed_init
+SHA1-Digest: TNq9BEsQHdDDxsdUtRHv6ltZoIU=
+
